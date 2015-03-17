@@ -1,12 +1,6 @@
-16cf9ce006880ebb778518a03c963b70 *DESCRIPTION
+a6549693b3565146c22c28c258e36cb0 *DESCRIPTION
 cbe8c5cecefa81d454988925f6128bc3 *NAMESPACE
-5f1e280f4c16b1233b94074490d3983a *R/histmdl.R
-ac62a4aa6748e192c724d38037b9a0e1 *build/vignette.rds
-9794f1e407878cf9c2bbe72a74f76574 *inst/doc/histmdl.R
-ed7599f0baa172b1d995a3942f659f84 *inst/doc/histmdl.Rnw
-62b66e1cce5b0db3679297f13238b739 *inst/doc/histmdl.pdf
-847a2fd8e1bf620f0591632115ef4613 *man/histmdl-package.Rd
+863eb503b1d67c1a1af64fd1c1d81f03 *R/histmdl.R
+c0512ca6da9d7e459e3bf865bf0ab2f9 *man/histmdl-package.Rd
 3c2d03c0b2bcf7218b83930860a51b75 *man/histmdl.Rd
 9a22135b6823e0ab3aebb096a4949945 *src/histmdl.c
-ed7599f0baa172b1d995a3942f659f84 *vignettes/histmdl.Rnw
-8314b6b607682516f46bd5e84cf94aee *vignettes/histmdl.bib
