@@ -1,6 +1,6 @@
-a6549693b3565146c22c28c258e36cb0 *DESCRIPTION
-cbe8c5cecefa81d454988925f6128bc3 *NAMESPACE
-863eb503b1d67c1a1af64fd1c1d81f03 *R/histmdl.R
-c0512ca6da9d7e459e3bf865bf0ab2f9 *man/histmdl-package.Rd
-3c2d03c0b2bcf7218b83930860a51b75 *man/histmdl.Rd
+efcc3e3c52c8af707f3e24e5c4279adb *DESCRIPTION
+84361a0462721408fe3ec87f9007c3ea *NAMESPACE
+9c89ce888afc56b7ef4ea62cc4117c6f *R/histmdl.R
+a7810fff368fb3a45184957a4c44396d *man/histmdl-package.Rd
+a95a4134de54558cd5ed67cf74ae405e *man/histmdl.Rd
 9a22135b6823e0ab3aebb096a4949945 *src/histmdl.c
